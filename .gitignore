@@ -9,4 +9,6 @@ regions.json
 *.png
 *.jpg
 *.exe
+bin/
+*.class
 chromedriver.exe
