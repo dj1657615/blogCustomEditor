@@ -37,12 +37,9 @@ print("선택된 평수:", picked_pyeong)
 
 
 GEMINI_API_KEYS = [
-    "AIzaSyASLFah067gAaDBtQHok4VcpgaQjPhVM-s",
-    "AIzaSyDbW9WJkdvXYdBZYZvriAcDySX2wYQRBkE",
-    "AIzaSyCWXts6UsXw96wxng0zVaCEAk2vdPIwhxI",
-    "AIzaSyBZJ8_OOxtpsJfYQHckJJEUYFKjZ9x1igs",
-    "AIzaSyDbW9WJkdvXYdBZYZvriAcDySX2wYQRBkE",
-    "AIzaSyAHex5Am8YEg4tEmHK_yZGXB6jN0Ext7BQ",
+    "1-s",
+    "2",
+    "3",
 ]
 
 MODEL_VERSION_DEFAULT = "gemini-2.5-flash"
