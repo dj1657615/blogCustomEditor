@@ -1,0 +1,12 @@
+*.pyc
+*.exe
+*.json
+*.jpg
+*.json
+jobs.json
+regions.json
+*.jpg
+*.png
+*.jpg
+*.exe
+chromedriver.exe
